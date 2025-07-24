@@ -4,7 +4,7 @@ import { getAuth, GoogleAuthProvider } from "firebase/auth";
 import { getDatabase } from "firebase/database";
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyA2QWlTHxxVu-Vodd0322am-Waxpu9iQyg",
+  apiKey: "PUT YOUR api key",
   authDomain: "polling-app-b69bc.firebaseapp.com",
   databaseURL: "https://polling-app-b69bc-default-rtdb.firebaseio.com",
   projectId: "polling-app-b69bc",
